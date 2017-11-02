@@ -1,0 +1,3 @@
+project=starrysky
+test=rspec
+template=slim
